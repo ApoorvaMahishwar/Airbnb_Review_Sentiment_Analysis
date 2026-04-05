@@ -7,7 +7,7 @@ Analyzes AirBnb user reviews to classify sentiment using a multi-stage pipeline:
 ## Dataset
 
 AirBnb user reviews:  
-- Raw dataset: [Kaggle Link](https://www.kaggle.com/datasets/YOUR_DATASET_LINK_HERE)  
+- Raw dataset: [Kaggle Link](https://www.kaggle.com/code/residentmario/sentiment-analysis-and-collocation-of-reviews/notebook)  
 - Cleaned dataset stored in: 'Dataset/Cleaned_Data/reviews.csv'
 
 ## Tech Stack
